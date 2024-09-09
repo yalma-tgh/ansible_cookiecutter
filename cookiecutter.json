@@ -1,0 +1,7 @@
+{
+    "project_name": "My Ansible Project",
+    "project_slug": "{{ cookiecutter.project_name.lower().replace(' ', '_') }}",
+    "author_name": "Your Name",
+    "remote_user": "root",
+    "server_ip": "192.168.1.100"
+}
